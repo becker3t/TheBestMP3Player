@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TheBestMP3Player</string>
+    <string name="directions_tv">Press button to play music.</string>
+    <string name="play_btn_txt">Play Music</string>
+    <string name="pause_btn_txt">Pause Music</string>
+    <string name="stop_service">Service Stopped</string>
+    <string name="start_service">Service Started</string>
+</resources>
